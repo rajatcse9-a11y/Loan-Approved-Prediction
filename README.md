@@ -51,10 +51,8 @@ The model uses applicant information such as:
 
 1. Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Loan-Approval-Prediction
-
-Replace "YOUR_GITHUB_REPOSITORY_URL" with your actual GitHub repository URL.
+git clone https://github.com/rajatcse9-a11y/Loan-Approved-Prediction.git
+cd Loan-Approval-Prediction.
 
 2. Create a Virtual Environment (Optional)
 
